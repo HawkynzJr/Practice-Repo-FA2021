@@ -1,27 +1,39 @@
-## Student Name (or name you would preferred to be called)
+## James Hawkins
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Analytic Geometry and Calculus 2
 
-- Course 2
+- Introduction to Programming Using Python
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Cloud Infrastructure and Services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Swimming
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Engineering 
+
+as shown in this website <https://www.floridapoly.edu>
+
+HW 2 Problem 1(a) Table:
+
+| Prefix    | Number       | Name                                        | 
+| :-------- | :----------: | ------------------------------------------: |
+|  **MAC**  |  **2312**    | *Analytic Geometry and Calculus 2*          |
+|  **COP**  |  **2034**    | *Introduction to Programming Using Python*  |
+|  **COP**  |  **2073**    | *Introduction to Data Science*              |
+|  **CTS**  |  **2375**    | *Cloud Infrastructure and Services*         |
+
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/19
